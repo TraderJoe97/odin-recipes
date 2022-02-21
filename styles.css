@@ -1,8 +1,16 @@
 /* styles */
-
-div {
+body {background-color: black;
+color: aliceblue;}
+h1 {
     color: white;
-    background-color: black;
+    background-color: transparent;
 }
 p {
     color: lightblue;}
+    img {
+       height: auto;
+       width: 95%;
+    }
+    * {
+        border: 2px solid red;
+    }
